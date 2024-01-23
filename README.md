@@ -1,2 +1,5 @@
 # my-first-repo
-Practice account for learning Git
+Hello :x
+:wq
+
+ractice account for learning Git
